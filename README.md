@@ -47,6 +47,8 @@ gtag-pckg install YizzyCameraMod
 gtag-pckg install YizzyCameraMod --link https://example.com/YizzyCameraMod.dll
 gtag-pckg list
 ```
+<img width="653" height="485" alt="showcase" src="https://github.com/user-attachments/assets/9c5d1073-0375-40a7-a12c-270352b3d869" />
+
 
 
 
